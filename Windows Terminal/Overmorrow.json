@@ -1,0 +1,23 @@
+{
+	"name": "Overmorrow",
+	"black": "#040404",
+	"red": "#D54E53",
+	"green": "#B9CA4A",
+	"yellow": "#E7C547",
+	"blue": "#7AA6DA",
+	"purple": "#C397D8",
+	"cyan": "#70C0B1",
+	"white": "#DEDEDE",
+	"brightBlack": "#202020",
+	"brightRed": "#FF5D63",
+	"brightGreen": "#EAFF5D",
+	"brightYellow": "#FFD94E",
+	"brightBlue": "#8FC2FF",
+	"brightPurple": "#E6B2FF",
+	"brightCyan": "#95FFEB",
+	"brightWhite": "#FFFFFF",
+	"background": "#000000",
+	"foreground": "#F0F0F0",
+	"cursorColor": "#EAEAEA",
+	"selectionBackground": "#486382"
+}
